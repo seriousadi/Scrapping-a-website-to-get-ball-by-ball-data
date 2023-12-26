@@ -1,0 +1,14 @@
+ball = ✔️
+bowler = ✔️
+batsman = ✔️
+wicket_type = ✔️
+player_dismissed = ✔️
+wide = ✔️
+penalty = ❌
+leg_bye = ✔️ 
+bye = ✔️
+no_ball = ✔️
+extra = ✔️
+runs_off_bat = ✔️
+batsman retired ❌
+non striker = ❌
